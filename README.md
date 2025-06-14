@@ -2,8 +2,8 @@
 
 Casos reais
 - comparar duas datas para férias
-- customizar o nome do usuário
-- verficiar se uma data está dentro do período
-- calcular preço com imposto
-- verificar se tem um produto no estoque
-- calcular a média de preço
+- x customizar o nome do usuário
+- x verficiar se uma data está dentro do período
+- x calcular preço com imposto
+- x verificar se tem um produto no estoque
+- x calcular a média de preço
